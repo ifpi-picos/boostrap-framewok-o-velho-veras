@@ -1,3 +1,7 @@
 .bg-nossacor {
   background-color: #251f4a !important;
 }
+.nomargin{
+  margin-left: 0;
+  margin-right: 0;
+}
