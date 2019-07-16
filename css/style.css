@@ -1,3 +1,17 @@
+
+@font-face {
+  font-family: arciform;
+  src: url(../fonts/Arciform.otf);
+}
+
+body {
+  font-family: arciform !important;
+}
+
 .bg-pretoroxov {
   background-color: #251f4a !important;
+}
+
+.text-pretoroxov{
+  color: #251f4a;
 }
