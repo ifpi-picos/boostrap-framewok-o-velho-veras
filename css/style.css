@@ -15,3 +15,17 @@ body {
 .text-pretoroxov{
   color: #251f4a;
 }
+.text-pretoroxov:hover{
+  color: #191533;
+}
+
+.btn-pretoroxov{
+  color: white;
+  background-color: #251f4a;
+}
+
+.btn-pretoroxov:hover{
+  color: white;
+  background-color: #191533;
+}
+
